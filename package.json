@@ -1,6 +1,6 @@
 {
   "name": "osu-colourizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "returns colours from osu beatmap difficulties",
   "license": "AGPL-3.0-or-later",
   "author": "yuiyamu <yuiyamuki@gmail.com>",
