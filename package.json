@@ -6,6 +6,7 @@
   "author": "yuiyamu <yuiyamuki@gmail.com>",
   "type": "commonjs",
   "main": "main.js",
+  "types": "main.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

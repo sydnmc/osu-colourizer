@@ -4,10 +4,10 @@ npm package to turn any osu difficulty number into its respective colour, exactl
 in order to install, simply type `npm i osu-colourizer` and import with either:
 
  > import  *  as  osuColourize  from  'osu-colourizer';
- > 
+ >
  > const osuColourize = require('osu-colourizer');
 
-depending on if your project uses CommonJS or ES Modules.
+depending on if your project uses CommonJS or ESM.
 
 ## usage
 osu-colourizer has 3 ways of returning colour data, `colourize`, `colourizeHex`, and `colourizeRawRgb`.
